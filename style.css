@@ -129,6 +129,7 @@ body {
 .hover {
     background: linear-gradient(to bottom, hsl(236, 72%, 79%), hsl(237, 63%, 64%)) !important;
     transform: scale(1.12) !important;
+    box-shadow: 0 2px 6px 0 hsl(238, 45%, 89%), 0 6px 20px 0 hsl(237, 41%, 90%);
 }
 
 .hover p {
